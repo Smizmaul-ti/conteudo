@@ -143,7 +143,7 @@
         </div>
     </div>
 
-    <div class="footer"> Direitos Reservados por Smizmaul Soluções de T.I</div>
+    <div class="footer"> Developed By Smizmaul Soluções de T.I </div>
 
 </body>
     
