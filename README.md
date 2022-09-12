@@ -82,7 +82,10 @@
             Permitindo  que milhares de jogares explorem o mundo e joguem jogos competitivos ou cooperativos, com ou sem missões da forma que
             quiser.<br>
         <br>    
-            Existem diversos modos de jogo, tais como corridas de Off-Road, corridas aéreas, eventos em equipe, golpes a cassinos e bancos, inclusive os modos criados pela comunidade..<br>
+            
+       <p>  
+           Existem diversos modos de jogo, tais como corridas de Off-Road, corridas aéreas, eventos em equipe, golpes a cassinos e bancos, inclusive os modos criados pela comunidade.. <br>
+        
         </p>
 
         <br>
@@ -110,7 +113,7 @@
         O GTA RP é um mod de Grand Theft Auto V disponível para PC que modifica o game e o transforma em um jogo online, que se comporta como um RPG de mesa.<br>
         
         No jogo, os jogadores devem interpretar seus personagens o tempo todo, como se estivessem na “vida real”. <br>
-        Se o jogador for um entregador de pizza ou um vendedor de carros, por exemplo, ele deve executar suas funções durante o horário de trabalho e ser pago por isso.<br>
+        Se o jogador for um entregador de pizza ou um vendedor de carros, por exemplo, ele deve executar suas funções durante o horário de trabalho e ser pago por isso.   <br>
         <br>
         O modo de jogo permite que os usuários criem suas próprias histórias no jogo, onde todos interagem com todos e as ações podem trazer consequências a outros jogadores.<br>
         <br>
